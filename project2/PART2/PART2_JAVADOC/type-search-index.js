@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"Iterator_SpirallyClockWise"},{"p":"<Unnamed>","l":"Main"}];updateSearchResults();
