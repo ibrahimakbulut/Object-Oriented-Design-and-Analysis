@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"DatabaseTable"},{"p":"<Unnamed>","l":"DatabaseTableSyncronozationProxy"},{"p":"<Unnamed>","l":"ITable"},{"p":"<Unnamed>","l":"SynchronizedProxyTestDrive"}];updateSearchResults();
