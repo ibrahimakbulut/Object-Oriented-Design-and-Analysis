@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"GaussianEliminitaion"},{"p":"<Unnamed>","l":"LinearSolverDeluxe"},{"p":"<Unnamed>","l":"Main"},{"p":"<Unnamed>","l":"SolveUnknown"},{"p":"<Unnamed>","l":"SolveWithGaussian"},{"p":"<Unnamed>","l":"SolveWithMatrixInversion"},{"p":"<Unnamed>","l":"SolvingBehaviour"}];updateSearchResults();
