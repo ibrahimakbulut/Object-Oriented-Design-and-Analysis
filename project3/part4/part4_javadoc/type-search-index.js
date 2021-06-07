@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"DCT_Transform"},{"p":"<Unnamed>","l":"DFT_Transform"},{"p":"<Unnamed>","l":"Main"},{"p":"<Unnamed>","l":"Transform1D"}];updateSearchResults();
